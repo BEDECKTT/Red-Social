@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Publicaciones";
+}
+
+<h2>Publicaciones</h2>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Publicacion>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Publicacions")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaPublicacion);
+        columns.AddFor(m => m.Autor.CorreoElectronico)
+        .Lookup(lookUp => lookUp
+                .DataSource
+                (
+                d => d.WebApi()
+                .Controller("SampleData")
+                .LoadAction("Get")
+                .Key("Nombre")
+                )
+                .ValueExpr("Nombre")
+                .DisplayExpr("Nombre")
+            );
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)
+
+

@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\content\\dx.light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\content\\dx.light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\controllers\\publicacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\controllers\\publicacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\controllers\\publicacionfotoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\controllers\\publicacionfotoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\controllers\\notificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\controllers\\notificacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\data\\appdevextremecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\data\\appdevextremecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\reaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\reaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\publicacionvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\publicacionvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\publicacionfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\publicacionfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\publicacionenlace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\publicacionenlace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\mensajetexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\mensajetexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\mensajemultimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\mensajemultimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\configuracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\models\\amistad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\models\\amistad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\appdevextreme\\content\\fonts\\roboto-400.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{620B2B22-4004-4B6A-9178-8C1EF2EA3640}|AppDevextreme\\AppDevextreme.csproj|solutionrelative:appdevextreme\\content\\fonts\\roboto-400.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dx.light.css",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Content\\dx.light.css",
+              "RelativeDocumentMoniker": "AppDevextreme\\Content\\dx.light.css",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Content\\dx.light.css",
+              "RelativeToolTip": "AppDevextreme\\Content\\dx.light.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T00:07:58.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppDevextreme\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppDevextreme\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T17:20:24.797Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\PublicacionsController.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Controllers\\PublicacionsController.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\PublicacionsController.cs",
+              "RelativeToolTip": "AppDevextreme\\Controllers\\PublicacionsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:29:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublicacionFotoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\PublicacionFotoesController.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Controllers\\PublicacionFotoesController.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\PublicacionFotoesController.cs",
+              "RelativeToolTip": "AppDevextreme\\Controllers\\PublicacionFotoesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:34:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\NotificacionsController.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Controllers\\NotificacionsController.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\NotificacionsController.cs",
+              "RelativeToolTip": "AppDevextreme\\Controllers\\NotificacionsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:55:04.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Controllers\\ComentariosController.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "AppDevextreme\\Controllers\\ComentariosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:58:20.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDevextremeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Data\\AppDevextremeContext.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Data\\AppDevextremeContext.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Data\\AppDevextremeContext.cs",
+              "RelativeToolTip": "AppDevextreme\\Data\\AppDevextremeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:55:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reaccion.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Reaccion.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Reaccion.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Reaccion.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Reaccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:50:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Notificacion.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Notificacion.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Notificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:47:20.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:33:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Publicacion.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Publicacion.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Publicacion.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Publicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:25:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublicacionVideo.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionVideo.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\PublicacionVideo.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionVideo.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\PublicacionVideo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:49:49.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublicacionFoto.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionFoto.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\PublicacionFoto.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionFoto.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\PublicacionFoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:48:55.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PublicacionEnlace.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionEnlace.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\PublicacionEnlace.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\PublicacionEnlace.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\PublicacionEnlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:48:05.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MensajeTexto.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\MensajeTexto.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\MensajeTexto.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\MensajeTexto.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\MensajeTexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:46:46.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MensajeMultimedia.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\MensajeMultimedia.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\MensajeMultimedia.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\MensajeMultimedia.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\MensajeMultimedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:46:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Mensaje.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Mensaje.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Mensaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:45:40.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Grupo.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Grupo.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Grupo.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:44:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Evento.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:43:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfiguracionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\ConfiguracionUsuario.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\ConfiguracionUsuario.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\ConfiguracionUsuario.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\ConfiguracionUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:43:07.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Comentario.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:42:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Amistad.cs",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Amistad.cs",
+              "RelativeDocumentMoniker": "AppDevextreme\\Models\\Amistad.cs",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Models\\Amistad.cs",
+              "RelativeToolTip": "AppDevextreme\\Models\\Amistad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:41:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Roboto-400.ttf",
+              "DocumentMoniker": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Content\\fonts\\Roboto-400.ttf",
+              "RelativeDocumentMoniker": "AppDevextreme\\Content\\fonts\\Roboto-400.ttf",
+              "ToolTip": "C:\\Users\\Art And Desing\\Desktop\\Practica-u3\\AppDevextreme\\AppDevextreme\\Content\\fonts\\Roboto-400.ttf",
+              "RelativeToolTip": "AppDevextreme\\Content\\fonts\\Roboto-400.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-17T23:04:30.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

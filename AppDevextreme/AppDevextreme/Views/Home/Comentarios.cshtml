@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Comentarios";
+}
+
+<h2>Comentarios</h2>
+
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Comentario>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("SampleData")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaComentario);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

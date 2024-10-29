@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Pictures";
+}
+
+<h2>Pictures</h2>
+
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.PublicacionFoto>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("PublicacionFotoes")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.URLFoto);
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaPublicacion);
+        columns.AddFor(m => m.Autor.Id)
+         .Lookup(lookUp => lookUp
+             .DataSource
+             (
+                 d => d.WebApi()
+                 .Controller("SampleData")
+                 .LoadAction("Get")
+                 .Key("Id")
+             )
+             .ValueExpr("Id")
+             .DisplayExpr("Apellido")
+            );
+
+
+
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

@@ -1,0 +1,235 @@
+@using AppDevextreme.Models
+
+
+
+@{
+    ViewData["Title"] = "Usuario";
+}
+
+<h2>Users</h2>
+
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Usuario>()
+        .DataSource(ds => ds.WebApi()
+            .Controller("SampleData")
+            .LoadAction("Get")
+            .InsertAction("Post")
+            .UpdateAction("Put")
+            .DeleteAction("Delete")
+            .Key("Id")
+        )
+        .RemoteOperations(true)
+        .Columns(columns => {
+
+            columns.AddFor(m => m.Id);
+
+            columns.AddFor(m => m.Nombre);
+
+            columns.AddFor(m => m.Apellido);
+
+            columns.AddFor(m => m.CorreoElectronico);
+
+            columns.AddFor(m => m.Contraseña);
+
+            columns.AddFor(m => m.FechadeNacimiento);
+
+            columns.AddFor(m => m.FotoPerfil);
+
+            columns.AddFor(m => m.Biografia);
+        })
+        .Editing(editing =>
+{
+    editing.Mode(GridEditMode.Row);
+    editing.AllowUpdating(true);
+    editing.AllowAdding(true);
+    editing.UseIcons(true);
+    editing.AllowDeleting(true);
+})
+
+.Paging(p => p.PageSize(5))
+.FilterRow(f => f.Visible(true))
+.HeaderFilter(f => f.Visible(true))
+.GroupPanel(p => p.Visible(true))
+.Grouping(g => g.AutoExpandAll(true))
+.FilterPanel(f => f.Visible(true))
+.RemoteOperations(true)
+
+
+    )
+
+<h3>Publications</h3>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Publicacion>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Publicacions")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaPublicacion);
+       
+    })
+     .Editing(editing =>
+     {
+        editing.Mode(GridEditMode.Row);
+        editing.AllowUpdating(true);
+        editing.AllowAdding(true);
+        editing.UseIcons(true);
+        editing.AllowDeleting(true);
+     })
+    .Paging(p => p.PageSize(5))
+    .FilterRow(f => f.Visible(true))
+    .HeaderFilter(f => f.Visible(true))
+    .GroupPanel(p => p.Visible(true))
+    .Grouping(g => g.AutoExpandAll(true))
+    .FilterPanel(f => f.Visible(true))
+    .RemoteOperations(true)
+)
+
+<h3>Comments</h3>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Comentario>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Comentarios")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaComentario);
+    })
+     .Editing(editing =>
+     {
+        editing.Mode(GridEditMode.Row);
+        editing.AllowUpdating(true);
+        editing.AllowAdding(true);
+        editing.UseIcons(true);
+        editing.AllowDeleting(true);
+     })
+    .Paging(p => p.PageSize(5))
+    .FilterRow(f => f.Visible(true))
+    .HeaderFilter(f => f.Visible(true))
+    .GroupPanel(p => p.Visible(true))
+    .Grouping(g => g.AutoExpandAll(true))
+    .FilterPanel(f => f.Visible(true))
+    .RemoteOperations(true)
+)
+
+
+
+<h3>Notifications</h3>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Notificacion>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Notificacions")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Tipo);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaNotificacion);
+    })
+    .Editing(editing =>
+    {
+    editing.Mode(GridEditMode.Row);
+    editing.AllowUpdating(true);
+    editing.AllowAdding(true);
+    editing.UseIcons(true);
+    editing.AllowDeleting(true);
+    })
+     .Paging(p => p.PageSize(5))
+     .FilterRow(f => f.Visible(true))
+     .HeaderFilter(f => f.Visible(true))
+     .GroupPanel(p => p.Visible(true))
+     .Grouping(g => g.AutoExpandAll(true))
+     .FilterPanel(f => f.Visible(true))
+     .RemoteOperations(true)
+)
+
+<h3>Reactions</h3>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.Reaccion>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Reaccions")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Tipo);
+
+        columns.AddFor(m => m.FechaReaccion);
+    })
+    .Editing(editing =>
+    {
+    editing.Mode(GridEditMode.Row);
+    editing.AllowUpdating(true);
+    editing.AllowAdding(true);
+    editing.UseIcons(true);
+    editing.AllowDeleting(true);
+    })
+     .Paging(p => p.PageSize(5))
+     .FilterRow(f => f.Visible(true))
+     .HeaderFilter(f => f.Visible(true))
+     .GroupPanel(p => p.Visible(true))
+     .Grouping(g => g.AutoExpandAll(true))
+     .FilterPanel(f => f.Visible(true))
+     .RemoteOperations(true)
+)
+
+)
+<h3>Pictures</h3>
+@(Html.DevExtreme().DataGrid<AppDevextreme.Models.PublicacionFoto>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("PublicacionFotoes")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.URLFoto);
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Contenido);
+
+        columns.AddFor(m => m.FechaPublicacion);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)
